@@ -17,7 +17,7 @@ import java.sql.SQLException;
  */
 public class ProductoDAO {
 
-    private static final String SQL_INSERT = "call spCreate(?, ? , ?, ?);";sdfsdf
+    private static final String SQL_INSERT = "call spCreate(?, ? , ?, ?);";sdfsdfkjgkjgjhgjhgjg
     private static final String SQL_UPDATE = "call spUpdate(?, ?, ?, ?, ?);";
     private static final String SQL_DELETE = "call spDelete(?);";
     
